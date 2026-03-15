@@ -1,5 +1,7 @@
 # Evidencia 2 - Pizza Track
 
+![Pizza Track](assets/u.jpg)
+
 Sistema de gestión de pedidos de pizza por consola, implementado en Java. Utiliza una **pila (stack) personalizada** con lista enlazada para soportar operaciones de Undo/Redo sobre los pedidos.
 
 ## Demo
